@@ -42,6 +42,8 @@ We do not collect user data. If you'd like to reach out:
 - Use the contact form on the website (if enabled)
 - Join the official Discord (linked from the website)
 
+---
+
 Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
 
 This work is licensed under a
